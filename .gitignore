@@ -22,3 +22,15 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Environment variables
+env/
+envlocal/
+.env
+.envlocal
+
+# Specific environment files
+env/.env
+envlocal/.env
+env/database.yml
+envlocal/database.yml
